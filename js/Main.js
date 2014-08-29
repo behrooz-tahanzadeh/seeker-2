@@ -101,7 +101,7 @@ Main =
 		ctx.fillStyle = "black";
 		Walker.MoveAll();
 		Walker.DrawAll();
-		
+		/*
 		ctx.beginPath();
 		
 		ctx.lineWidth = "1";
@@ -109,6 +109,7 @@ Main =
 		Grid.drawGrid();
 		
 		ctx.stroke();
+		*/
 	},
 	
 	

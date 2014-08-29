@@ -40,7 +40,7 @@ Walker.prototype.move = function(c)
 	switch(chance)
 	{
 		case 0:
-			if(this.pos.r-1>0)
+			if(this.pos.r-1>=0)
 				this.pos.r--;
 			else
 				this.move(4);
@@ -54,7 +54,7 @@ Walker.prototype.move = function(c)
 			break;
 			
 		case 2:
-			if(this.pos.c-1>0)
+			if(this.pos.c-1>=0)
 				this.pos.c--;
 			else
 				this.move(5);

@@ -1,10 +1,10 @@
 var Grid = 
 {
-	rows: 30,
-	cols: 40,
+	rows: 60*2,
+	cols: 80*2,
 	
-	cw: 20,
-	ch: 20,
+	cw: 5,
+	ch: 5,
 	
 	ctx: false,
 	
