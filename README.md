@@ -1,5 +1,5 @@
-#Wave#1
+#Walker#1
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
-> Aug 2014
+> Sep 2014
 
-a [Github page](http://behrooz-tahanzadeh.github.io/wave-1/)<br/>
+a [Github page](http://behrooz-tahanzadeh.github.io/walker-1/)<br/>
