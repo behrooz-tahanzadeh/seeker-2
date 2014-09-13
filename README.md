@@ -1,4 +1,4 @@
-#Walker#1
+#Seeker#2
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
 > Sep 2014
 
